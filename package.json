@@ -1,7 +1,7 @@
 {
   "name": "smart-photo-api",
   "version": "1.0.0",
-  "description": "mart-photo-api",
+  "description": "smart-photo-api",
   "main": "scripts.js",
   "scripts": {
     "start": "nodemon server.js",
